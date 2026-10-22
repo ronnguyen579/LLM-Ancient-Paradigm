@@ -1,0 +1,6 @@
+{
+  "name": "LLM: Ancient Paradigm",
+  "description": "Tựa game Visual Novel Anime chiến thuật thẻ bài và xúc xắc cổ đại quy tụ các thực thể LLM huyền thoại: Gemini, ChatGPT, Claude, Grok, DeepSeek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
